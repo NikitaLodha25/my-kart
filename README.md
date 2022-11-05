@@ -1,2 +1,3 @@
-# Flipkart-clone
-Created a flipkart clone home page using CSS.
+# my-kart
+
+Created a my-kart home page using CSS.
